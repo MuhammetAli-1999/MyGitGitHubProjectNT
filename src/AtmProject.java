@@ -13,6 +13,8 @@ public class AtmProject {
 
         System.out.println("bir kisim kodlar yazdim");
         //ali02
+        System.out.println();
+        //ali03
 
 
 
