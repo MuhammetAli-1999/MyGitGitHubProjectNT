@@ -7,6 +7,15 @@ public class AtmProject {
         //version2
         System.out.println("learn java earn money ");
         //version3
+
+        System.out.println("Ali branchi kodu yazdir");
+        //version ali01
+
+
+
+
+
+
     }
 
 
