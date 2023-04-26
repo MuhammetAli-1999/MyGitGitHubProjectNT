@@ -11,6 +11,8 @@ public class AtmProject {
         System.out.println("Ali branchi kodu yazdir");
         //version ali01
 
+        System.out.println("bir kisim kodlar yazdim");
+        //ali02
 
 
 
