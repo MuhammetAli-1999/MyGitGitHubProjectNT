@@ -17,7 +17,7 @@ public class AtmProject {
         //ali03
         System.out.println();
         //local degisiklik yaptim
-
+        //remotede degisiklik yaptim
 
 
 
